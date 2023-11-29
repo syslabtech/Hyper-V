@@ -11,3 +11,7 @@ Then, run as administrator
   	del hyper-v.txt
   	Dism /online /enable-feature /featurename:Microsoft-Hyper-V -All /LimitAccess /ALL
   	pause
+
+
+
+This script will be work on any Windows Home System.
